@@ -8,6 +8,8 @@
 
 <p align="center">Since Dify doesn't have a built-in scheduling feature, executing workflow tasks on a schedule can be challenging. This project leverages GitHub Actions to run workflows daily and send notifications automatically.</p>
 
+[![Auto](https://github.com/Saisimon/dify-schedule/actions/workflows/auto.yml/badge.svg?branch=main&event=workflow_dispatch)](https://github.com/Saisimon/dify-schedule/actions/workflows/auto.yml)
+
 [中文文档](./README_CN.md)
 [日本語](./README_JA.md)
 
